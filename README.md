@@ -1,17 +1,21 @@
 ### Olá!Eu sou Luis Ferreira.
   Estudante de Engenharia de Computação no Instituto Federal Sul de Minas
 
-<!--
-**IncludeLuisFerreira/IncludeLuisFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando estruturas de dados em C
+- 😊 Pronouns: Ele/dele
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://beacon.ai/IncludeLuisFerreira">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=IncludeLuisFerreira&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncludeLuisFerreira&layout=compact&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">   
+</div>
+
+##
+
+<div>
+  <a href = "prgLuisfelipe@gmail.com" target= "_blank" </a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</img> 
+</div>

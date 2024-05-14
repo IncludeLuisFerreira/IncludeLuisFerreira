@@ -5,7 +5,6 @@
 - 😊 Pronouns: Ele/dele
 
 <div>
-  <a href="https://beacon.ai/IncludeLuisFerreira">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=IncludeLuisFerreira&show_icons=true&theme=dark&include_all_commits=true" />
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncludeLuisFerreira&layout=compact&theme=dark"/>
 </div>

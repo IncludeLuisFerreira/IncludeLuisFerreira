@@ -16,5 +16,5 @@
 ##
 
 <div>
-  <a href = "prgluisfelipe@gmail.com" target= "_blank" </a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</img> 
+  <a href = "prgluisfelipe@gmail.com" target= "blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</img> 
 </div>

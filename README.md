@@ -2,6 +2,7 @@
   Estudante de Engenharia de Computação no Instituto Federal Sul de Minas
 
 - 🌱 Estudando estruturas de dados em C
+- 🔨 Criando projetos de gerêncimento de dados.
 - 😊 Pronouns: Ele/dele
 
 <div>

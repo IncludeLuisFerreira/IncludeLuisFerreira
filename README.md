@@ -1,7 +1,7 @@
 ### Olá!Eu sou Luis Ferreira.
   Estudante de Engenharia de Computação no Instituto Federal Sul de Minas
 
-- 🌱 Estudando estruturas de dados em C
+- 🌱 Estudando estruturas de dados em C e criando pequenos projetos em Pyhton
 - 🔨 Criando projetos de gerêncimento de dados.
 - 😊 Pronouns: Ele/dele
 
@@ -11,7 +11,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">   
+  <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 </div>
 
 ##

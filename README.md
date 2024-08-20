@@ -1,18 +1,22 @@
 ### Olá!Eu sou Luis Ferreira.
   Estudante de Engenharia de Computação no Instituto Federal Sul de Minas
 
-- 🌱 Estudando estruturas de dados em C e criando pequenos projetos em Pyhton
+- 🌱 Estudando Estruturas de dados em C e fazendo um pequeno jogo na unity.
 - 🔨 Criando projetos de gerêncimento de dados.
-- 😊 Pronouns: Ele/dele
+- 😊 Pronouns: Ele/dele.
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=IncludeLuisFerreira&show_icons=true&theme=dark&include_all_commits=true" />
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncludeLuisFerreira&layout=compact&theme=dark"/>
+  
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img  align= "center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+  
           
 </div>
 

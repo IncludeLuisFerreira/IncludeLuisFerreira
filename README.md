@@ -1,8 +1,8 @@
 ### Olá!Eu sou Luis Ferreira.
-  Estudante de Engenharia de Computação no Instituto Federal Sul de Minas
+  Estudante de Engenharia de Computação no Instituto Federal Sul de Minas 4° período
 
-- 🌱 Estudando Estruturas de dados em C e fazendo um pequeno jogo na unity.
-- 🔨 Criando projetos de gerêncimento de dados.
+- 🌱 Estudando Paradigmas de programação e fazendo um pequeno jogo na unity.
+- 🔨 Pretendo trabalhar na área de automação e/ou cybersegurança.
 - 😊 Pronouns: Ele/dele.
 
 <div>

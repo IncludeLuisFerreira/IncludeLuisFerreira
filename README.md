@@ -3,7 +3,6 @@
 
 - 🌱 Estudando Paradigmas de programação e fazendo um pequeno jogo na unity.
 - 🔨 Pretendo trabalhar na área de automação e/ou cybersegurança.
-- 😊 Pronouns: Ele/dele.
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=IncludeLuisFerreira&show_icons=true&theme=dark&include_all_commits=true" />

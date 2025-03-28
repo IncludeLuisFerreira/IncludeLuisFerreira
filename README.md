@@ -2,7 +2,6 @@
   Estudante de Engenharia de Computação no Instituto Federal Sul de Minas 5° período
 
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn.pixabay.com/photo/2016/11/07/12/08/cyber-security-1805632_960_720.png" alt="SubhadeepZilong" width="350" style="margin-right: 20px;"/>
   <div>
     <ul>
       <li>🌱 Estudando Programação Orientada a Objetos.</li>

@@ -1,7 +1,6 @@
 ### Olá!Eu sou Luis Ferreira.
   Estudante de Engenharia de Computação no Instituto Federal Sul de Minas 4° período
 
-  ![snake gif](https://github.com/IncludeLuisFerreira/IncludeLuisFerreira/blob/output/github-contribution-grid-snake.gif)
 
 - 🌱 Estudando Paradigmas de programação.
 - 🔨 Pretendo trabalhar na área de automação e/ou cybersegurança.
@@ -27,3 +26,5 @@
   <a href="mailto:prgluisfelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</img> 
    <a href="https://www.instagram.com/str_luis.ferreira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</img>
 </div>
+
+  ![snake gif](https://github.com/IncludeLuisFerreira/IncludeLuisFerreira/blob/output/github-contribution-grid-snake.gif)

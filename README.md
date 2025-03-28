@@ -27,4 +27,4 @@
    <a href="https://www.instagram.com/str_luis.ferreira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</img>
 </div>
 
-  ![snake gif](https://github.com/IncludeLuisFerreira/IncludeLuisFerreira/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/IncludeLuisFerreira/IncludeLuisFerreira/blob/output/github-contribution-grid-snake-dark.svg)

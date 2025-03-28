@@ -1,6 +1,8 @@
 ### Olá!Eu sou Luis Ferreira.
   Estudante de Engenharia de Computação no Instituto Federal Sul de Minas 4° período
 
+  ![snake gif](https://github.com/IncludeLuisFerreira/IncludeLuisFerreira/blob/output/github-contribution-grid-snake.gif)
+
 - 🌱 Estudando Paradigmas de programação.
 - 🔨 Pretendo trabalhar na área de automação e/ou cybersegurança.
 

@@ -49,7 +49,7 @@
       </ul>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 Carrinho RF (ESP32)</h3>
+      <h3 align="center">🤖 Carrinho RF (Arduino Uno R3)</h3>
       <div align="center">
         <a href="https://github.com/IncludeLuisFerreira/carrinho_qchat">
           <img src="https://img.shields.io/badge/VER_PROJETO-238636?style=for-the-badge&logo=github&logoColor=white">

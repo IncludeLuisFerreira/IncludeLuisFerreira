@@ -1,19 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:434343,100:000000&height=200&section=header&text=Luis%20Ferreira&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=00FF88&desc=Engenharia%20de%20Computação&descAlignY=55&descAlign=50&descSize=20&stroke=00FF88&strokeWidth=2" />
-</div>
+# Luis Ferreira
 
-<div align="center">
-  <b>IFSULDEMINAS • 7º Período</b><br>
-  <i>Sistemas Embarcados | Algoritmos | Automação</i>
-</div>
+**Engenharia de Computação** | IFSULDEMINAS • 7º Período  
+*Sistemas Embarcados | Algoritmos | Automação*
 
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=IncludeLuisFerreira&color=00D9FF&style=for-the-badge&label=Profile+Views)
+Olá, sou estudante de Engenharia de Computação no IFSULDEMINAS, com foco em sistemas embarcados, algoritmos e automação. Este repositório contém meus projetos pessoais das minhas áreas de interesse, bem como contribuições no GitHub e projetos acadêmicos.
 
-</div>
-
-<br>
+## 🤝 Entre em Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luís-felipe-costa-ferreira-613944311" target="_blank">
@@ -27,7 +19,6 @@
   </a>
 </div>
 
----
 
 ## 🚀 Projetos em Destaque
 
@@ -64,66 +55,45 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <h3 align="center">♟️ Jogo de Damas Inteligente</h3>
+      <div align="center">
+        <a href="https://github.com/IncludeLuisFerreira/Checkers-intelligence">
+          <img src="https://img.shields.io/badge/VER_PROJETO-238636?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </div>
+      <br>
+      <ul>
+        <li><b>Tech:</b> Java</li>
+        <li>Algoritmo inteligente para jogo de damas</li>
+        <li>Implementação de IA que sempre busca ganhar ou empatar com o jogador</li>
+        <li>Jogo interativo contra a máquina e escolha de dificuldade</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
 ## 🛠️ Stack Técnica
 
-**Linguagens Principais:**
-- **C/C++** - Sistemas embarcados e algoritmos de performance
-- **Java** - Desenvolvimento orientado a objetos e estruturas de dados
-- **Python** - Automação e interfaces gráficas
-- **C#** - Desenvolvimento .NET (em aprendizado)
+### Linguagens Principais
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
-**Ferramentas & Tecnologias:**
-- **ESP32/Arduino** - Projetos IoT e comunicação RF
-- **Linux/Debian** - Ambiente de desenvolvimento principal
-- **Git/GitHub** - Controle de versão e colaboração
-- **ncurses** - Programação gráfica em terminal
-
----
-
-## 📊 Áreas de Especialização
-
-### **🔧 Sistemas Embarcados**
-- Desenvolvimento para microcontroladores
-- Comunicação entre dispositivos (RF, WiFi, Bluetooth)
-- Sensores e atuadores
-- Sistemas de tempo real
-
-### **⚡ Algoritmos & Estruturas de Dados**
-- Algoritmos de compressão (Huffman)
-- Algoritmos genéticos e otimização
-- Grafos e programação dinâmica
-- Análise de complexidade
-
-### **🤖 Automação & IoT**
-- Controle de dispositivos remotos
-- Protocolos de comunicação customizados
-- Integração hardware/software
-- Sistemas distribuídos
-
----
-
-## 🎯 Próximos Passos
-
-- **Aprofundamento em C#**: Expandindo conhecimentos em desenvolvimento .NET
-- **Algoritmos Avançados**: Preparação contínua para maratonas de programação
-- **Projetos IoT**: Explorando novas aplicações com ESP32 e sensores
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IncludeLuisFerreira&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IncludeLuisFerreira&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&hide=html,css,c&langs_count=6)
-
-</div>
-
+### Ferramentas & Tecnologias
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 
 ---

@@ -62,9 +62,15 @@ Sou estudante do 7º Período de **Engenharia de Computação** no IFSULDEMINAS,
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h3>♟️ <a href="https://github.com/IncludeLuisFerreira/Checkers-intelligence">Checkers Intelligence</a></h3>
+      <p>Engine de Inteligência Artificial para o jogo de damas, focada em algoritmos de busca em árvore, heurísticas de avaliação de tabuleiro e tomada de decisão estratégica.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI%20%2F%20IA-FF6F00?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
       <h3>📚 <a href="https://github.com/IncludeLuisFerreira/Projetos-academicos-IFSULDEMINAS">Projetos Acadêmicos - IFSULDEMINAS</a></h3>
-      <p>Repositório central reunindo exercícios de maratona, laboratórios práticos e projetos de arquitetura de software desenvolvidos ao longo da graduação. Uma verdadeira biblioteca de referência pessoal.</p>
+      <p>Repositório central reunindo exercícios de maratona, laboratórios práticos e projetos de arquitetura de software desenvolvidos ao longo da graduação.</p>
       <img src="https://img.shields.io/badge/C%20/%20C%2B%2B-00599C?style=flat-square" />
       <img src="https://img.shields.io/badge/Assembly-1E4D8C?style=flat-square" />
     </td>
@@ -75,13 +81,9 @@ Sou estudante do 7º Período de **Engenharia de Computação** no IFSULDEMINAS,
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IncludeLuisFerreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncludeLuisFerreira&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img height="250" src="https://streak-stats.demolab.com/?user=IncludeLuisFerreira&theme=tokyonight&hide_border=true" />
+</p>
 
-<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IncludeLuisFerreira&color=3b82f6&style=flat-square&label=Visualizações+de+Perfil" alt="Views Counter" />
-</div>
+

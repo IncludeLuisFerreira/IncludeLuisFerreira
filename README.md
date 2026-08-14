@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante do 7º Período de **Engenharia de Computação** no IFSULDEMINAS, apaixonado por transformar hardware bruto em soluções inteligentes. Meu foco é o desenvolvimento de sistemas eficientes, atuando na ponte entre o software otimizado e a eletrônica.
+Sou estudante do 8º Período de **Engenharia de Computação** no IFSULDEMINAS, apaixonado por transformar hardware bruto em soluções inteligentes. Meu foco é o desenvolvimento de sistemas eficientes, atuando na ponte entre o software otimizado e a eletrônica.
 
 * 🔧 **Áreas de Atuação:** Sistemas Embarcados, IoT (Internet das Coisas) e Automação.
 * 🏆 **Reconhecimento:** Integrante da equipe vencedora do Hackathon de Cafeicultura IFSULDEMINAS 2025.
@@ -25,12 +25,17 @@ Sou estudante do 7º Período de **Engenharia de Computação** no IFSULDEMINAS,
 
 ## 🛠️ Stack Técnica
 
-### 💻 Linguagens e Protocolos
+### 💻 Linguagens
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+</p>
+
+### 📡 Protocolos e Tecnologias
+<p align="left">
   <img src="https://img.shields.io/badge/LoRa_/_LoRaWAN-00979D?style=flat-square&logo=LoRa&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white" />
 </p>
@@ -39,10 +44,15 @@ Sou estudante do 7º Período de **Engenharia de Computação** no IFSULDEMINAS,
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChirpStack-2C3E50?style=flat-square&logo=chirpstack&logoColor=white" />
 </p>
-
 <br>
 
 ## 📁 Projetos em Destaque

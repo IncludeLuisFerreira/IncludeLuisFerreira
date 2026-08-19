@@ -15,11 +15,13 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante do 8º Período de **Engenharia de Computação** no IFSULDEMINAS, apaixonado por transformar hardware bruto em soluções inteligentes. Meu foco é o desenvolvimento de sistemas eficientes, atuando na ponte entre o software otimizado e a eletrônica.
+Sou estudante do 8º Período de Engenharia de Computação no IFSULDEMINAS, com um forte interesse em construir sistemas inteligentes que resolvam problemas práticos. Atuo na interseção entre software de automação, IA aplicada, IoT e sistemas embarcados, unindo a coleta de dados do mundo físico com algoritmos inteligentes para gerar eficiência e autonomia em processos reais.
 
-* 🔧 **Áreas de Atuação:** Sistemas Embarcados, IoT (Internet das Coisas) e Automação.
-* 🏆 **Reconhecimento:** Integrante da equipe vencedora do Hackathon de Cafeicultura IFSULDEMINAS 2025.
-* 🌱 **Explorando atualmente:** RTOS, Arquitetura de Computadores e IA voltada para a borda (Edge AI).
+🔧 Interesses principais: Softwares para Automação, Aplicações Práticas de IA, Dispositivos Conectados (IoT) e Programação Embarcada.
+
+🏆 Reconhecimento: Integrante da equipe vencedora do Hackathon de Cafeicultura IFSULDEMINAS 2025.
+
+🌱 Atualmente estudando: Integração entre IA e IoT (AIoT), Sistemas em Tempo Real e Estratégias de automação preditiva.
 
 <br>
 
@@ -92,8 +94,7 @@ Sou estudante do 8º Período de **Engenharia de Computação** no IFSULDEMINAS,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="250" src="https://streak-stats.demolab.com/?user=IncludeLuisFerreira&theme=tokyonight&hide_border=true" />
+  <img height="250" src="https://github-readme-streak-stats-eight.vercel.app?user=IncludeLuisFerreira&theme=tokyonight&hide_border=true" />
 </p>
-
 
 

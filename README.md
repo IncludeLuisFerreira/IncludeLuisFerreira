@@ -1,61 +1,108 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e40af&height=200&section=header&text=Luis%20Ferreira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Computação%20|%20Sistemas%20Embarcados%20|%20IoT&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e40af&height=200&section=header&text=Luis%20Ferreira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Computação%20%7C%20Sistemas%20Embarcados%20%7C%20IoT&descAlignY=55&descSize=18" alt="Banner Luis Ferreira" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-costa-ferreira-613944311/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-costa-ferreira-613944311/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:prgluisfelipe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://github.com/IncludeLuisFerreira">
+    <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
-<br>
+---
 
 ## 🚀 Sobre Mim
 
-Sou estudante do 8º Período de Engenharia de Computação no IFSULDEMINAS, com um forte interesse em construir sistemas inteligentes que resolvam problemas práticos. Atuo na interseção entre software de automação, IA aplicada, IoT e sistemas embarcados, unindo a coleta de dados do mundo físico com algoritmos inteligentes para gerar eficiência e autonomia em processos reais.
+Sou estudante do 8º período de Engenharia de Computação no IFSULDEMINAS, interessado em desenvolver sistemas inteligentes capazes de resolver problemas práticos. Atuo na interseção entre automação, inteligência artificial aplicada, IoT e sistemas embarcados, conectando dados do mundo físico a soluções computacionais para aumentar a eficiência e a autonomia de processos reais.
 
-🔧 Interesses principais: Softwares para Automação, Aplicações Práticas de IA, Dispositivos Conectados (IoT) e Programação Embarcada.
+- 🔧 **Interesses:** automação, aplicações práticas de IA, dispositivos conectados (IoT) e programação embarcada.
+- 🏆 **Reconhecimento:** integrante da equipe vencedora do Hackathon de Cafeicultura IFSULDEMINAS 2025.
+- 🌱 **Estudos atuais:** aplicação de Inteligência Artificial à Visão Computacional, com foco em técnicas de classificação supervisionada e algoritmos baseados em proximidade, como o *K-Nearest Neighbors* (KNN).
 
-🏆 Reconhecimento: Integrante da equipe vencedora do Hackathon de Cafeicultura IFSULDEMINAS 2025.
+---
 
-🌱 Atualmente estudando: Integração entre IA e IoT (AIoT), Sistemas em Tempo Real e Estratégias de automação preditiva.
+## 🏆 Conquistas & Reconhecimentos
 
-<br>
+<table>
+  <thead>
+    <tr>
+      <th align="center">Ano</th>
+      <th align="left">Conquista</th>
+      <th align="left">Detalhes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">2026</td>
+      <td>🥇 Bicampeão Hackathon IFSULDEMINAS</td>
+      <td>1º lugar — Inovação Aberta para Gestão Pública (Projeto <strong>ConectAí</strong>)</td>
+    </tr>
+    <tr>
+      <td align="center">2025</td>
+      <td>🥇 Campeão Hackathon IFSULDEMINAS</td>
+      <td>1º lugar — Desafio Inovação Sustentável na Cafeicultura(Projeto <strong>Elo Rural</strong>)</td>
+    </tr>
+    <tr>
+      <td align="center">2026</td>
+      <td>📜 Certificação UNICAMP</td>
+      <td>Desenvolvimento de soluções IoT com LoRa e LoRaWAN — nota 10,0</td>
+    </tr>
+    <tr>
+      <td align="center">2025</td>
+      <td>🔬 Publicação científica</td>
+      <td>Integração de Sensores LoRaWAN com Drones para Mapeamento Rápido em Cafezais — X Jornada de Evidências Científicas da UNIFAE</td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ## 🛠️ Stack Técnica
 
-### 💻 Linguagens
+### 💻 Linguagens de Programação
+
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
-### 📡 Protocolos e Tecnologias
+### 📡 IoT & Protocolos
+
 <p align="left">
-  <img src="https://img.shields.io/badge/LoRa_/_LoRaWAN-00979D?style=flat-square&logo=LoRa&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/LoRa%20%2F%20LoRaWAN-00979D?style=for-the-badge&logoColor=white" alt="LoRa e LoRaWAN" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ChirpStack-2C3E50?style=for-the-badge&logoColor=white" alt="ChirpStack" />
 </p>
 
-### 🔧 Ferramentas e Ecossistema
+### ⚙️ Ferramentas & Infraestrutura
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChirpStack-2C3E50?style=flat-square&logo=chirpstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
 </p>
-<br>
+
+### 📊 Monitoramento & Dados
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
+</p>
+
+---
 
 ## 📁 Projetos em Destaque
 
@@ -63,38 +110,36 @@ Sou estudante do 8º Período de Engenharia de Computação no IFSULDEMINAS, com
   <tr>
     <td width="50%" valign="top">
       <h3>🌬️ <a href="https://github.com/IncludeLuisFerreira/LoRa-MQTT_monitoramento-de-qualidade-do-ar">LoRa-MQTT: Qualidade do Ar</a></h3>
-      <p>Solução IoT completa para telemetria de dados atmosféricos utilizando redes LoRaWAN e protocolo MQTT. Desenvolvido como projeto final do curso WissTekIoT da Unicamp.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white" />
+      <p>Solução IoT para telemetria de dados atmosféricos utilizando LoRaWAN e MQTT. Desenvolvida como projeto final do curso WissTekIoT da Unicamp.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white" alt="IoT" />
     </td>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/IncludeLuisFerreira/Teoria-dos-grafos">Teoria dos Grafos</a></h3>
-      <p>Implementação rigorosa de algoritmos clássicos de busca, caminho mínimo e otimização em redes estruturadas. Focado em análise de complexidade e performance.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <p>Implementação de algoritmos clássicos de busca, caminho mínimo e otimização em grafos, com foco em análise de complexidade e desempenho.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>♟️ <a href="https://github.com/IncludeLuisFerreira/Checkers-intelligence">Checkers Intelligence</a></h3>
-      <p>Engine de Inteligência Artificial para o jogo de damas, focada em algoritmos de busca em árvore, heurísticas de avaliação de tabuleiro e tomada de decisão estratégica.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI%20%2F%20IA-FF6F00?style=flat-square" />
+      <p>Engine de inteligência artificial para o jogo de damas, com algoritmos de busca em árvore, heurísticas de avaliação do tabuleiro e tomada de decisão estratégica.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/AI%20%2F%20IA-FF6F00?style=flat-square" alt="Inteligência Artificial" />
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/IncludeLuisFerreira/Projetos-academicos-IFSULDEMINAS">Projetos Acadêmicos - IFSULDEMINAS</a></h3>
-      <p>Repositório central reunindo exercícios de maratona, laboratórios práticos e projetos de arquitetura de software desenvolvidos ao longo da graduação.</p>
-      <img src="https://img.shields.io/badge/C%20/%20C%2B%2B-00599C?style=flat-square" />
-      <img src="https://img.shields.io/badge/Assembly-1E4D8C?style=flat-square" />
+      <h3>📚 <a href="https://github.com/IncludeLuisFerreira/Projetos-academicos-IFSULDEMINAS">Projetos Acadêmicos — IFSULDEMINAS</a></h3>
+      <p>Repositório com exercícios de maratona, laboratórios práticos e projetos de arquitetura de software desenvolvidos durante a graduação.</p>
+      <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=flat-square" alt="C e C++" />
+      <img src="https://img.shields.io/badge/Assembly-1E4D8C?style=flat-square" alt="Assembly" />
     </td>
   </tr>
 </table>
 
-<br>
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="250" src="https://github-readme-streak-stats-eight.vercel.app?user=IncludeLuisFerreira&theme=tokyonight&hide_border=true" />
-</p>
-
-
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app?user=IncludeLuisFerreira&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>

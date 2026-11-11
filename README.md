@@ -22,7 +22,6 @@
 Sou estudante do 8º período de Engenharia de Computação no IFSULDEMINAS, interessado em desenvolver sistemas inteligentes capazes de resolver problemas práticos. Atuo na interseção entre automação, inteligência artificial aplicada, IoT e sistemas embarcados, conectando dados do mundo físico a soluções computacionais para aumentar a eficiência e a autonomia de processos reais.
 
 - 🔧 **Interesses:** automação, aplicações práticas de IA, dispositivos conectados (IoT) e programação embarcada.
-- 🏆 **Reconhecimento:** integrante da equipe vencedora do Hackathon de Cafeicultura IFSULDEMINAS 2025.
 - 🌱 **Estudos atuais:** aplicação de Inteligência Artificial à Visão Computacional, com foco em técnicas de classificação supervisionada e algoritmos baseados em proximidade, como o *K-Nearest Neighbors* (KNN).
 
 ---
